@@ -10,4 +10,6 @@ body {
 }
 button {
     background-color: brown;
+    color: aquamarine;
+    font-family: "Roboto Condensed", sans-serif;
 }
