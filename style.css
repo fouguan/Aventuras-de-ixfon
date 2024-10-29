@@ -13,3 +13,12 @@ button {
     color: aquamarine;
     font-family: "Roboto Condensed", sans-serif;
 }
+
+
+.passo {
+    display: none;
+}
+
+.passo.ativo {
+    display: block;
+}
